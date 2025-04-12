@@ -1,1 +1,1 @@
-# week-2-ML
+# Machine Learning
